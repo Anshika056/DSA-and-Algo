@@ -9,7 +9,7 @@ function countvowels(sentence){
             count++
         }
     }
-return count ++
+return count
 }
 
 const result = countvowels("hello world");
