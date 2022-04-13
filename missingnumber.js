@@ -1,6 +1,6 @@
 
 function misnum(arr){
-    var arr
+
     var missing =[]
     var count =10
     

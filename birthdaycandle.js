@@ -9,6 +9,7 @@ function candle(){
             max = arr[i]
         }  
     }
+    console.log(max)
     for(i=0;i<arr.length;i++){     //count the number of maximum number
         if(arr[i]==max){
             count ++

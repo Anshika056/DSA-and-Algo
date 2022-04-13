@@ -10,3 +10,4 @@ function capitalize(str) {
 
 const result = capitalize("hello world")
 console.log(result)
+
